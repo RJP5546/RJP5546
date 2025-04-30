@@ -20,5 +20,5 @@
 [<img align="left" alt="RyanPederson | Itch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/itchdotio.svg" />][itchdotio]
 
 [youtube]: https://www.youtube.com/@RyanPedersonGameDev
-[itchdotio]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[itchdotio]: https://rjp5546.itch.io/
+[linkedin]: https://www.linkedin.com/in/ryan-pederson01/
