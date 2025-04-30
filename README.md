@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ryan! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Game Developer</a></h1>
+<h1>Hi, I'm Ryan! <br/><a>Programmer</a>, <a>Game Developer</a></h1>
 
 <h2>Game Development Projects:</h2>
 
