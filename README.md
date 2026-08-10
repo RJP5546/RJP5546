@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ryan! <br/><a>Programmer</a>, <a>Game Developer</a></h1>
 
-<h2>Game Development Projects:</h2>
+<h2>Public Game Development Projects:</h2>
 
 - <b>Puzzle Crafting Game</b>
   - [Harvest-Horizon](https://github.com/RJP5546/Harvest-Horizon)
